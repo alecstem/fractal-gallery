@@ -5,4 +5,6 @@ Some fractal screenshots from my ASCII fractal viewer. It runs in the console, a
   <img src="gallery/9.png" width="850" height="350" ><img src="gallery/11.png" width="850" height="350" >
   <img src="gallery/24.png" width="850" height="350" > <img src="gallery/8.png" width="850" height="350" >
   <img src="gallery/10.png" width="850" height="350" > <img src="gallery/21.png" width="850" height="350" >
+  <img src="gallery/5.jpg" width="850" height="350" > <img src="gallery/21.png" width="850" height="350" >
+  
   
